@@ -9,7 +9,7 @@ import ch.emf.atelierpo.wrk.Worker;
 public class Application {
 
     /**
-     * @param args the command line arguments
+     * @param args 
      */
     public static void main(String[] args) {
         Worker wrk = new Worker();
